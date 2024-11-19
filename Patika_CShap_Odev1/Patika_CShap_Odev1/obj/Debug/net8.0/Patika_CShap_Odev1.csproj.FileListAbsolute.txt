@@ -1,0 +1,14 @@
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\bin\Debug\net8.0\Patika_CShap_Odev1.exe
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\bin\Debug\net8.0\Patika_CShap_Odev1.deps.json
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\bin\Debug\net8.0\Patika_CShap_Odev1.runtimeconfig.json
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\bin\Debug\net8.0\Patika_CShap_Odev1.dll
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\bin\Debug\net8.0\Patika_CShap_Odev1.pdb
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.AssemblyInfo.cs
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.dll
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\refint\Patika_CShap_Odev1.dll
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.pdb
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\Patika_CShap_Odev1.genruntimeconfig.cache
+C:\Users\Casper\Desktop\C#\C# Consol\Patika_CShap_Odev1\Patika_CShap_Odev1\obj\Debug\net8.0\ref\Patika_CShap_Odev1.dll
